@@ -8,7 +8,6 @@ d. To classify the images based on the features extracted using SVM classifier
 
 Algorithm
 
-Modules
 1.  Optical Disc size estimation,
 2.  Optic Disk localization,
 	a. Background normalization,
@@ -27,3 +26,8 @@ Modules
 	b. Classification using Cup to Disk.
 	c. SVM Classification.
 
+Results
+
+Specificity - 94.28%
+Sensitivity - 95%
+Accuracy - 94.61%
