@@ -1,10 +1,10 @@
 # Glaucoma-Project
 
 This project objectives are
-To localize and detect optic disk.
-To segment and extract the optic cup and optic disk.
-To find cup to disk ratio.
-To classify the images based on the features extracted using SVM classifier
+a. To localize and detect optic disk.
+b. To segment and extract the optic cup and optic disk.
+c. To find cup to disk ratio.
+d. To classify the images based on the features extracted using SVM classifier
 
 Algorithm
 
